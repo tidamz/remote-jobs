@@ -153,6 +153,7 @@ Happy Cog | http://happycog.com/ | USA
 HashiCorp | https://www.hashicorp.com/ |
 Healthfinch | http://www.healthfinch.com/ |
 Heap | https://heapanalytics.com/ | Worldwide
+[Heetch](/company-profiles/heetch.md) | https://www.heetch.com/ | Europe, offices in Paris, Brussels, Stockholm, Milano
 Help Scout | https://www.helpscout.net/ |
 [HE:labs](/company-profiles/helabs.md) | https://www.helabs.com | Worldwide, Office in Rio, BRAZIL
 Heroku | https://www.heroku.com/ |
